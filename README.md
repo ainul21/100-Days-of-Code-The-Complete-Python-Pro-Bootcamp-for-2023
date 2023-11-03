@@ -1,5 +1,7 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 
+Python Exercise: https://app.auditorium.ai/courses/eelyNMYJKXeNJAbjssSEQz0m88XvnhX6
+
 ## Syllabus
 ### Beginner Python
 - Variables in Python
